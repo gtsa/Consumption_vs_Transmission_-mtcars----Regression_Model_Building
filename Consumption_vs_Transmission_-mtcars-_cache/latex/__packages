@@ -1,0 +1,7 @@
+base
+dplyr
+carData
+car
+ggplot2
+knitr
+kableExtra
